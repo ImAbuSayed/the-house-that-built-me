@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-house-that-built-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for The House That Built Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-house-that-built-me/) |
+| **Get License** | [Official Music Licensing for The House That Built Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-house-that-built-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I'm driving down this highway just to taste your skin
+> Every memory of your touch is where my dreams begin
+> The midnight air is heavy and the spark is free
+> We're unlocking every door to the house that built me
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
