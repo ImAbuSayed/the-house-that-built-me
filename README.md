@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-house-that-built-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for The House That Built Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-house-that-built-me/) |
+| **Get License** | [License this song: The House That Built Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-house-that-built-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cf8e1e7968de575d79e6ae47b861ccd44d0227b7158600d9e2225edda48c783a` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

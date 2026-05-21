@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - The House That Built Me
+
+This log tracks the cryptographic history and versioning for the song **The House That Built Me** (the-house-that-built-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T05:36:06.302673 | `v1` | `cf8e1e7968de575d79e6ae47b861ccd44d0227b7158600d9e2225edda48c783a` | `cfbf28eec42056c5290b211cb7a67510a3396c69d018a08368111d1ad0b2e005` | `2026-05-22_the-house-that-built-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
